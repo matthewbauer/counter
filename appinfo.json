@@ -1,0 +1,40 @@
+{
+    "resources": {
+        "media": [
+            {
+                "type": "png-trans",
+                "file": "images/action_icon_minus.png",
+                "name": "MINUS"
+            },
+            {
+                "type": "png-trans",
+                "file": "images/action_icon_plus.png",
+                "name": "PLUS"
+            },
+            {
+                "type": "png-trans",
+                "file": "images/reset.png",
+                "name": "RESET"
+            },
+            {
+                "type": "png",
+                "file": "images/icon.png",
+                "name": "ICON",
+                "menuIcon": true
+            }
+        ]
+    },
+    "versionCode": 1,
+    "shortName": "counter",
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "1.0",
+    "longName": "Counter is a multipurpose counting app with applications ranging from lap tracking to card counting.",
+    "uuid": "36bab645-70c5-472b-b99f-afc9f8656c70",
+    "appKeys": {},
+    "companyName": "matthewbauer",
+    "watchapp": {
+        "watchface": false
+    }
+}
